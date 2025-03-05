@@ -1,0 +1,16 @@
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:186:9:IKS01A3_MOTION_SENSOR_Init	25
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:876:9:IKS01A3_MOTION_SENSOR_DeInit	3
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:902:9:IKS01A3_MOTION_SENSOR_GetCapabilities	3
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:928:9:IKS01A3_MOTION_SENSOR_ReadID	3
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:957:9:IKS01A3_MOTION_SENSOR_Enable	4
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:996:9:IKS01A3_MOTION_SENSOR_Disable	4
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1036:9:IKS01A3_MOTION_SENSOR_GetAxes	4
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1076:9:IKS01A3_MOTION_SENSOR_GetAxesRaw	4
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1116:9:IKS01A3_MOTION_SENSOR_GetSensitivity	4
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1157:9:IKS01A3_MOTION_SENSOR_GetOutputDataRate	4
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1197:9:IKS01A3_MOTION_SENSOR_GetFullScale	4
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1238:9:IKS01A3_MOTION_SENSOR_SetOutputDataRate	4
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1278:9:IKS01A3_MOTION_SENSOR_SetFullScale	4
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1322:16:LSM6DSO_0_Probe	14
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1404:16:LIS2DW12_0_Probe	12
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1477:16:LIS2MDL_0_Probe	12

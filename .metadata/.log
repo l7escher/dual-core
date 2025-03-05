@@ -1,0 +1,57 @@
+!SESSION 2025-03-05 10:29:04.024 -----------------------------------------------
+eclipse.buildId=Version 1.15.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_CH
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-03-05 10:29:09.002
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-03-05 10:29:09.002
+!MESSAGE Log4j2 initialized with config file D:\Projekte\EmbReal\DualCore_workspace\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-03-05 10:29:10.859
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-05 10:29:32.143
+!MESSAGE Indexed 'C_Blinky_CM7' (32 sources, 37 headers) in 2.27 sec: 7,295 declarations; 66,202 references; 18 unresolved inclusions; 121 syntax errors; 6,801 unresolved names (8.5%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-05 10:29:33.748
+!MESSAGE Indexed 'C_Blinky_CM4' (28 sources, 92 headers) in 1.59 sec: 9,350 declarations; 68,433 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0026%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-05 10:29:34.888
+!MESSAGE Indexed 'CPP_Template_CM4' (28 sources, 33 headers) in 1.13 sec: 6,361 declarations; 58,414 references; 17 unresolved inclusions; 94 syntax errors; 6,127 unresolved names (8.6%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-05 10:29:41.598
+!MESSAGE Indexed '03_CPP_autoconsole_CM4' (28 sources, 89 headers) in 1.62 sec: 8,449 declarations; 64,634 references; 6 unresolved inclusions; 95 syntax errors; 2,807 unresolved names (3.7%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-05 10:29:44.131
+!MESSAGE Indexed '12_C_AMP_SyncBlinky_CM7' (31 sources, 95 headers) in 1.39 sec: 10,269 declarations; 76,715 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0023%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-05 10:29:45.438
+!MESSAGE Indexed 'CPP_EnumState_CM4' (28 sources, 92 headers) in 1.3 sec: 9,350 declarations; 68,433 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0026%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-05 10:29:50.401
+!MESSAGE Indexed 'CPP_Template_CM7' (32 sources, 224 headers) in 4.95 sec: 29,832 declarations; 107,580 references; 0 unresolved inclusions; 571 syntax errors; 1,660 unresolved names (1.2%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-05 10:29:55.903
+!MESSAGE Indexed '03_CPP_autoconsole_CM7' (32 sources, 295 headers) in 5.48 sec: 35,300 declarations; 118,673 references; 0 unresolved inclusions; 290 syntax errors; 940 unresolved names (0.61%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-05 10:29:58.757
+!MESSAGE Indexed 'CPP_EnumState_CM7' (33 sources, 209 headers) in 2.84 sec: 24,295 declarations; 99,169 references; 0 unresolved inclusions; 213 syntax errors; 735 unresolved names (0.59%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-05 10:29:59.728
+!MESSAGE Indexed '12_C_AMP_SyncBlinky_CM4' (28 sources, 92 headers) in 0.958 sec: 9,356 declarations; 68,498 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0026%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-05 10:30:04.244
+!MESSAGE Indexed '03_4_CPP_SpiritLevel_CM7' (53 sources, 343 headers) in 4.5 sec: 52,907 declarations; 160,782 references; 3 unresolved inclusions; 2 syntax errors; 45 unresolved names (0.021%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-05 10:30:05.211
+!MESSAGE Indexed '03_4_CPP_SpiritLevel_CM4' (28 sources, 92 headers) in 0.957 sec: 9,350 declarations; 68,433 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0026%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-05 10:30:06.861
+!MESSAGE Indexed 'CPP_Blinky_CM4' (28 sources, 92 headers) in 1.22 sec: 9,350 declarations; 68,433 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0026%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-05 10:30:09.092
+!MESSAGE Indexed 'CPP_Blinky_CM7' (35 sources, 210 headers) in 2.22 sec: 24,580 declarations; 99,500 references; 0 unresolved inclusions; 212 syntax errors; 735 unresolved names (0.59%)

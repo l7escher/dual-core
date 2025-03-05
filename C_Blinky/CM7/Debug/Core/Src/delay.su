@@ -1,0 +1,2 @@
+../Core/Src/delay.c:10:6:Delay_Init	16	static
+../Core/Src/delay.c:22:9:My_Nonblocking_Delay	16	static

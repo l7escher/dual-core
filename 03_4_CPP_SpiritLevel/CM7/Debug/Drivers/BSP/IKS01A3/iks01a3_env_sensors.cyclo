@@ -1,0 +1,12 @@
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:130:9:IKS01A3_ENV_SENSOR_Init	25
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:470:9:IKS01A3_ENV_SENSOR_DeInit	3
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:496:9:IKS01A3_ENV_SENSOR_GetCapabilities	3
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:522:9:IKS01A3_ENV_SENSOR_ReadID	3
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:550:9:IKS01A3_ENV_SENSOR_Enable	4
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:588:9:IKS01A3_ENV_SENSOR_Disable	4
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:627:9:IKS01A3_ENV_SENSOR_GetOutputDataRate	4
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:666:9:IKS01A3_ENV_SENSOR_SetOutputDataRate	4
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:705:9:IKS01A3_ENV_SENSOR_GetValue	4
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:750:16:HTS221_0_Probe	14
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:835:16:LPS22HH_0_Probe	14
+D:/Projekte/EmbReal/DualCore_workspace/03_4_CPP_SpiritLevel/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:920:16:STTS751_0_Probe	12

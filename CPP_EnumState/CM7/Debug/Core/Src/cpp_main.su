@@ -1,0 +1,3 @@
+../Core/Src/cpp_main.cpp:26:6:void execStatemachine1()	16	static
+../Core/Src/cpp_main.cpp:72:6:void execStatemachine2()	16	static
+../Core/Src/cpp_main.cpp:120:6:void cpp_main()	8	static
